@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Luciano
-- 👀 I’m interested in AI
+- 👀 I’m interested in HW
 - 🌱 I’m currently learning JavaScript on Google APP Script
 - 💞️ I’m looking to collaborate on nerdy projects
 - 📫 How to reach me, on my web page
